@@ -1,2 +1,2 @@
 # PracticasMPI
-Estas son las prácticas de MPi para la asignatura de Multiprocesadores
+Estas son las prácticas de MPI para la asignatura de Multiprocesadores
